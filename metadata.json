@@ -1,0 +1,86 @@
+{
+  "name": "Rugged Revenants Gen 1 #3599",
+  "symbol": "RRDC",
+  "description": "TRugged revenants are NFTs that holders will use as playable characters within the game. They provide in-game benefits like flight and extra lives based on their attributes.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeib2j3se4e56i5vd23dkerjlhcgdi6nfm4u3ykdivd3cwbs3mij7wy.ipfs.dweb.link/3599.png?ext=png",
+  "attributes": [
+   {
+      "value": "0",
+      "trait_type": "Health"
+    },
+    {
+      "value": "0",
+      "trait_type": "Health Regeneration"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Count"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Regeneration"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Type"
+    },
+    {
+      "value": "0",
+      "trait_type": "Luck"
+    },
+    {
+      "value": "Throne",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Airplane Wing",
+      "trait_type": "Backwear"
+    },
+    {
+      "value": "Yellow Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Armor",
+      "trait_type": "Tail"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Pajamas Shirt",
+      "trait_type": "Bodywear"
+    },
+    {
+      "value": "Camo",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Racing",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leather Jacket",
+      "trait_type": "Outerwear"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Facewear"
+    },
+    {
+      "value": "Darker Horn",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Fish",
+      "trait_type": "Weapon"
+    }
+    ]
+  }
+}
